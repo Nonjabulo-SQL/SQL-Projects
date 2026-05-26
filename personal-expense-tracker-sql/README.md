@@ -1,4 +1,4 @@
-#  Personal expense Trcaker
+#  Personal expense Tracker
 
 SQLite database for tracking personal expenses and budgeting.
 
